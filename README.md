@@ -1,5 +1,5 @@
 # Currículo
-Este repositório contém o projeto do meu currículo, desenvolvido como uma prática para aprimorar minhas habilidades em HTML e design de páginas web. O objetivo deste projeto é criar uma apresentação clara e profissional das minhas informações pessoais, habilidades e experiências.
+Este repositório contém o projeto do meu currículo, (ainda em andamento) desenvolvido como uma prática para aprimorar minhas habilidades em HTML e design de páginas web. O objetivo deste projeto é criar uma apresentação clara e profissional das minhas informações pessoais, habilidades e experiências.
 
 # Currículo de Danilo Rebello
 
@@ -34,7 +34,7 @@ Você pode conferir mais sobre meus projetos no meu perfil do GitHub:
 [Meu GitHub](https://github.com/DaniloRebello?tab=overview&from=2024-10-01&to=2024-10-07)
 
 ## Contribuições
-
+Estou atualizando esse projeto a medida que meu aprendizado evolui então, ele é bem simples ainda;
 Sinta-se à vontade para contribuir com este projeto. Se você encontrar algum erro ou tiver sugestões, por favor, abra uma issue ou envie um pull request.
 
 ## Licença
